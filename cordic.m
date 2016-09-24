@@ -50,7 +50,6 @@ for j = 0:n-1;
     
 end
 
-%concatenation graph
 if (ang_original <= 180&& ang_original > 90)
     temp=y;
     y=x;
