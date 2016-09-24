@@ -1,3 +1,3 @@
 # CORDIC-Graph
-ALgorithm made in Octave.
+ALgorithm graph cordic made in Octave.
 Run test.m in Octave
