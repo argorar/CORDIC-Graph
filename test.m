@@ -36,7 +36,7 @@ title('Cos')
 xlabel('Time (s)')
 ylabel('Amplitude')
 figure
-plot(t,sen)
+plot(t,sin)
 title('Sin')
 xlabel('Time (s)')
 ylabel('Amplitude')
